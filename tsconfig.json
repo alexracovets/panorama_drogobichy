@@ -46,6 +46,12 @@
       ],
       "@styles/*": [
         "./src/styles/*"
+      ],
+      "@hooks": [
+        "./src/hooks"
+      ],
+      "@store": [
+        "./src/store"
       ]
     }
   },

@@ -1,0 +1,1 @@
+export { storePanoramas } from "./storePanoramas";
